@@ -1,2 +1,2 @@
 # bits-n-bots
-Bits-N-Bots
+Bits-N-Bots Demo
