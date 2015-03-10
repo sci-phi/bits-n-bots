@@ -1,8 +1,6 @@
 import time
 import RPi.GPIO as GPIO
 
-GPIO.cleanup()
-
 GPIO.setmode(GPIO.BOARD)
 
 GPIO.setup(7,GPIO.OUT)
